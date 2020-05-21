@@ -1,4 +1,4 @@
-package com.jxyzh11.myframework.toolkit;
+package com.jxyzh11.myframework.toolkit.utils;
 
 import org.apache.commons.lang3.StringUtils;
 

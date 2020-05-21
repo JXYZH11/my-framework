@@ -1,4 +1,4 @@
-package com.jxyzh11.myframework.toolkit;
+package com.jxyzh11.myframework.toolkit.utils;
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.http.HttpEntity;

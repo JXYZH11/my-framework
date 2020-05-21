@@ -1,4 +1,4 @@
-package com.jxyzh11.myframework.toolkit;
+package com.jxyzh11.myframework.toolkit.utils;
 
 import com.google.common.collect.Lists;
 import org.apache.commons.collections4.CollectionUtils;
